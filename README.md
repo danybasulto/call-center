@@ -28,4 +28,4 @@ La secretaria encargada podrá agregar o eliminar agentes como sea necesario, as
 * El programa debe basarse en el uso de listas doblemente ligadas para los agentes, y listas simplemente ligadas para los usuarios atendidos por cada agente.
 * El método de ordenamiento para los agentes debe ser recursivo.
 * La lista de clientes debe ser un atributo de la clase Agente.
-* Todos los TDA y sus funciones deben ser programadas por el alumno y contenerse en bibliotecas o colecciones bien definidas. Es decir que no habrán de utilizarse los TDA, o funciones TDA incluidas en el lenguaje de programación elegido.
+* Todos los TDA y sus funciones deben ser realizadas por el programador y contenerse en bibliotecas o colecciones bien definidas. Es decir que no habrán de utilizarse los TDA, o funciones TDA incluidas en el lenguaje de programación elegido.
